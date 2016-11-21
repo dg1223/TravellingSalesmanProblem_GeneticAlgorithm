@@ -1,5 +1,5 @@
 NAME : eil51optTour
-COMMENT : Optimal tour for eil51 problem using GA  (425)
+COMMENT : Optimal tour for eil51 problem using GA  (426)
 TYPE : TOUR
 DIMENSION : 51
 TOUR_SECTION
