@@ -1,0 +1,11 @@
+-------  Statistics  -------
+Number of Generation evolved:  749
+best tour length:  425.088968564
+Average tour length:  667.678529617
+_____________________________________
+Parameters:
+Fitness heuristic: minimum distance (Euclidean)
+Population size =  76
+Crossover probability =  0.9 ,  type: Tournament Selection (Tournament size = 3, k =  750 )
+Mutation probability =  0.2 ,  type: Shuffle Indexes (shuffle probability = 0.02)
+timeElapsed =  567.772608537  seconds
