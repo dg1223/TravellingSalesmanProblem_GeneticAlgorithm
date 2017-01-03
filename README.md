@@ -1,2 +1,2 @@
 # TravellingSalesman_GAsolution
-Solution to different TSP problems using Python's DEAP library (PyPI)
+Solution to the eli51 TSP problem using Python's DEAP library (PyPI package)
